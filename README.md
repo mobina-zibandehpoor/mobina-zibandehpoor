@@ -1,7 +1,7 @@
 <!-- Profile theme: open · curious · building -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:DB2777,50:C026D3,100:7C3AED&height=180&section=header&text=&fontSize=0&animation=fadeIn&reversal=false" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:DB2777,50:C026D3,100:7C3AED&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" alt="header" />
 </p>
 
 <h1 align="center">
@@ -126,7 +126,7 @@ Thesis work explored non-invasive assessment of human spatial navigation with vi
 Open to research collaborations, industry projects, and conversations about **intelligent sensing**, **HCI**, **health / assistive tech**, and applied AI — including spaces I'm still growing into.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:C026D3,100:DB2777&height=140&section=footer&text=&fontSize=0&animation=fadeIn&reversal=true" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:7C3AED,50:C026D3,100:DB2777&height=160&section=footer&text=&fontSize=0&animation=twinkling" width="100%" alt="footer" />
 </p>
 
 <p align="center">
