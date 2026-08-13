@@ -14,7 +14,7 @@
 [![ResearchGate](https://img.shields.io/badge/🔬_ResearchGate-Follow-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mobina-Zibandehpoor)
 [![GitHub](https://img.shields.io/github/followers/mobina-zibandehpoor?label=Follow&style=social)](https://github.com/mobina-zibandehpoor)
 
-<img src="https://komarev.com/ghpvc/?username=mobina-zibandehpoor&label=Profile%20views&color=2E86AB&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mobina-zibandehpoor&label=Profile%20views&color=2E86AB&style=flat-square" />
 
 </div>
 
