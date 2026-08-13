@@ -1,7 +1,7 @@
 <!-- Profile theme: open · curious · building -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:DB2777,50:C026D3,100:7C3AED&height=160&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:DB2777,50:C026D3,100:7C3AED&height=180&section=header&text=&fontSize=0&animation=fadeIn&reversal=false" width="100%" alt="header" />
 </p>
 
 <h1 align="center">
@@ -72,11 +72,24 @@ I'm especially interested in **HCI**, **assistive / health tech**, **intelligent
 
 ## background
 
-| | |
-|---|---|
-| **M.Sc.** Mechatronics Engineering | K. N. Toosi University of Technology · 2022–2025 |
-| **B.Sc.** Electrical Engineering (Telecom) | University of Zanjan · 2017–2021 · top of class |
-| **Lab** | Biomechatronics Laboratory · research & teaching |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left"><b>M.Sc.</b> Mechatronics Engineering</td>
+    <td align="left">K. N. Toosi University of Technology · 2022–2025</td>
+  </tr>
+  <tr>
+    <td align="left"><b>B.Sc.</b> Electrical Engineering (Telecom)</td>
+    <td align="left">University of Zanjan · 2017–2021 · top of class</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Research</b></td>
+    <td align="left">Biomechatronics Laboratory · research & teaching assistant · peer reviewer (IEEE Access and ...)</td>
+  </tr>
+</table>
+
+</div>
 
 Thesis work explored non-invasive assessment of human spatial navigation with vision, motion capture, and ML — one example of how I like to combine hardware, data, and analysis. Publications and datasets live on [Google Scholar](https://scholar.google.com/citations?user=_-slqcUAAAAJ&hl=en) and my [portfolio](https://mobina-zibandehpoor.github.io/).
 
@@ -90,7 +103,6 @@ Thesis work explored non-invasive assessment of human spatial navigation with vi
 </p>
 
 - Open research shared in venues such as *Scientific Data* (Nature) and IEEE
-- Teaching assistant · peer reviewer (IEEE Access and others)
 - National recognitions for thesis / presentation competitions
 
 <br/>
@@ -109,27 +121,12 @@ Thesis work explored non-invasive assessment of human spatial navigation with vi
 
 <br/>
 
-## activity
-
-<p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=mobina-zibandehpoor&show_icons=true&include_all_commits=true&hide_border=true&title_color=C026D3&icon_color=A855F7&text_color=334155&bg_color=FFFFFF00" alt="stats" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobina-zibandehpoor&layout=compact&hide_border=true&title_color=C026D3&text_color=334155&bg_color=FFFFFF00&langs_count=6" alt="langs" />
-</p>
-
-<br/>
-
 ## let's work together
 
 Open to research collaborations, industry projects, and conversations about **intelligent sensing**, **HCI**, **health / assistive tech**, and applied AI — including spaces I'm still growing into.
 
 <p align="center">
-  <a href="mailto:mobinazibandeh@gmail.com">
-    <img src="https://img.shields.io/badge/say_hello-mobinazibandeh%40gmail.com-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,50:C026D3,100:DB2777&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:C026D3,100:DB2777&height=140&section=footer&text=&fontSize=0&animation=fadeIn&reversal=true" width="100%" alt="footer" />
 </p>
 
 <p align="center">
