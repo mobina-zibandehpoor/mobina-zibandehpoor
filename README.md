@@ -1,24 +1,24 @@
-<!-- Profile theme: path · signal · motion -->
+<!-- Profile theme: open · curious · building -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" alt="eyes" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="sparkles" width="42" height="42" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="compass" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="gear" width="42" height="42" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Walking.png" alt="walking" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="42" height="42" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Mobina+Zibandehpoor;reading+how+people+find+their+way" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mobina;engineer+%C2%B7+researcher+%C2%B7+lifelong+learner" alt="typing" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:99F6E4&height=140&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:99F6E4&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="wave" />
 </p>
 
 <p align="center">
-  <b>M.Sc. Mechatronics</b> · Biomechatronics Lab · K. N. Toosi University of Technology<br/>
-  <i>she/her</i> · non-invasive cognitive assessment through movement, gaze & sensor fusion
+  <b>M.Sc. Mechatronics</b> · K. N. Toosi University of Technology<br/>
+  <i>she/her</i> · building at the edge of sensing, intelligence & human systems
 </p>
 
 <p align="center">
@@ -31,140 +31,89 @@
 
 <br/>
 
-## the idea
+## about
 
-I study **how humans navigate space** — and how we can measure that ability without invasive tools.
+I'm a mechatronics engineer and researcher who likes turning messy real-world signals into something useful — whether that's a model, a dataset, a prototype, or a clearer question.
 
-My work sits between **mechatronics**, **computer vision**, and **cognitive science**. In the lab I build pipelines that turn everyday signals — walking trajectories, head motion, eye movements — into indices that say something real about spatial memory and sense of direction.
-
-Thesis focus: a non-invasive framework using **vision-based pose estimation** + **IMU motion capture**, with ML for feature extraction and interpretability. Parallel track: **EOG eye tracking** during the Leiden Navigation Test.
+My background spans **sensing**, **computer vision**, **machine learning**, and **human–computer systems**. I've worked on multimodal behavioral analysis and biomechatronics, but I'm not locked into one pipeline or stack. I care more about the problem than the tool — and I'm always happy to learn a new one.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=64748B&center=true&vCenter=true&width=680&lines=pose+%E2%86%92+IMU+%E2%86%92+EOG+%E2%86%92+features+%E2%86%92+cognitive+index;low-burden+sensing+%C2%B7+interpretable+models+%C2%B7+open+data" alt="pipeline typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=curious+about+new+methods+%C2%B7+open+to+new+domains;experiment+%E2%86%92+measure+%E2%86%92+learn+%E2%86%92+ship" alt="pipeline typing" />
 </p>
 
 <br/>
 
-## how I think about a study
-
-```text
-          ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-   walk → │   cameras   │ ──▸ │   RTMPose   │ ──▸ │ trajectory  │
-          │   + IMUs    │     │  / OpenPose │     │  + joints   │
-          └─────────────┘     └─────────────┘     └──────┬──────┘
-                                                         │
-          ┌─────────────┐     ┌─────────────┐            ▼
-   gaze → │     EOG     │ ──▸ │ blinks ·    │     ┌─────────────┐
-          │  H / V ch.  │     │ saccades ·  │ ──▸ │  multimodal │
-          └─────────────┘     │ fixations   │     │  classifier │
-                              └─────────────┘     └─────────────┘
-```
-
-<br/>
-
-## what I've been building
+## what I'm drawn to
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### open data
-**[EOG · Leiden Navigation Test](https://github.com/mobina-zibandehpoor/EOG-LNT-Spatial-Navigation-Dataset)**  
-27 healthy participants · vertical & horizontal EOG during LNT  
-→ published in *Nature Scientific Data*
-
-### motion pipelines
-**[MoWalCT · RTMPose trajectories](https://github.com/mobina-zibandehpoor/MoWalCT-RTMPose-trajectory-extraction)**  
-Walking Corsi paths, extracted & cleaned
-
-**[MoWalCT · head / trunk angles](https://github.com/mobina-zibandehpoor/MoWalCT-head-trunk-cleaned-joint-angles)**  
-joint-angle cleaning for WalCT analysis
+### sense
+cameras · wearables · biosignals  
+IMUs · multimodal capture  
+turning the physical world into data
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### gaze & vision
-**[L2CS-Net gaze detection](https://github.com/mobina-zibandehpoor/L2CS-Net-Gaze-Detection)**  
-video gaze estimation · L2CS-Net + Gaze360
+### think
+ML · deep learning · XAI  
+time-series & vision models  
+features that stay interpretable
 
-### geometry
-**[Brain 3D CAD models](https://github.com/mobina-zibandehpoor/Brain-3D-Cad-Model)**  
-human brain models for biomechatronics work
+</td>
+<td width="33%" valign="top" align="center">
 
-### writing home
-**[Academic portfolio](https://mobina-zibandehpoor.github.io/)**  
-papers, experience, and notes
+### build
+Python · MATLAB · C/C++  
+experiments · open tools  
+prototypes people can actually use
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## papers that matter most to me right now
-
-| year | venue | note |
-|:----:|:------|:-----|
-| 2025 | *Scientific Data* (Nature) | EOG dataset for objective spatial navigation assessment |
-| 2026 | IEEE ICWR | multimodal sense-of-direction from trajectory + head motion |
-| 2025 | CSICC | eye-movement biometrics in navigation · **Best Paper** |
-| 2024 | ICRoM | WalCT trajectory assessment via pose estimation |
-| 2024 | arXiv | Persian Wayfinding Questionnaire |
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=_-slqcUAAAAJ&hl=en">full scholar list →</a>
-  &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0003-2355-5383">orcid →</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.researchgate.net/profile/Mobina-Zibandehpoor">researchgate →</a>
-</p>
+I'm especially interested in **HCI**, **assistive / health tech**, **intelligent sensing**, and any project where engineering meets human behavior. New frameworks, sensors, or research directions are welcome — I learn fast and collaborate openly.
 
 <br/>
 
-## path so far
+## background
 
-```mermaid
-timeline
-    title education & research
-    2017–2021 : B.Sc. Electrical Eng. (Telecom) · University of Zanjan
-               : Top student · IoT weather-station thesis
-    2022–2025 : M.Sc. Mechatronics · K. N. Toosi
-               : Spatial navigation from movement patterns
-               : Supervisor — Dr. Mehdi Delrobaei
-    now       : Research · teaching · peer review
-               : Open datasets & WalCT / EOG pipelines
-```
+| | |
+|---|---|
+| **M.Sc.** Mechatronics Engineering | K. N. Toosi University of Technology · 2022–2025 |
+| **B.Sc.** Electrical Engineering (Telecom) | University of Zanjan · 2017–2021 · top of class |
+| **Lab** | Biomechatronics Laboratory · research & teaching |
+
+Thesis work explored non-invasive assessment of human spatial navigation with vision, motion capture, and ML — one example of how I like to combine hardware, data, and analysis. Publications and datasets live on [Google Scholar](https://scholar.google.com/citations?user=_-slqcUAAAAJ&hl=en) and my [portfolio](https://mobina-zibandehpoor.github.io/).
 
 <br/>
 
-## toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,opencv,pytorch,sklearn,git,linux,latex&theme=light" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pose-RTMPose%20%2F%20OpenPose-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/signals-EOG%20%2F%20IMU-14B8A6?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML-interpretable%20%2F%20XAI-0D9488?style=flat-square" />
-  <img src="https://img.shields.io/badge/stats-SPSS%20%2F%20G*Power-5EEAD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/writing-LaTeX%20%2F%20Jupyter-99F6E4?style=flat-square" />
-</p>
-
-<br/>
-
-## milestones
+## selected highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8F%86_Best_Paper-CSICC_2025-C2410C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86_Best_Thesis_Nominee-IEEE_Iran_Section-B45309?style=for-the-badge" />
 </p>
 
-- 3rd place — 3-Minute Thesis & 3-Minute Article (K. N. Toosi)
-- Best seminar — Electrical Engineering Faculty (2024)
-- 3rd place — Best Bachelor's Thesis in IoT (national, 2022)
-- TA — Biomechatronic Systems & Neuromuscular Control Systems
-- Peer reviewer — IEEE Access · Int. Journal of Web Research · MEAAC
+- Open research shared in venues such as *Scientific Data* (Nature) and IEEE
+- Teaching assistant · peer reviewer (IEEE Access and others)
+- National recognitions for thesis / presentation competitions
+
+<br/>
+
+## toolkit (always expanding)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,opencv,pytorch,sklearn,git,linux,latex&theme=light" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/comfortable_with-vision%20%C2%B7%20signals%20%C2%B7%20ML-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/happy_to_learn-new%20stacks%20%C2%B7%20new%20domains-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/workflow-experiment%20%C2%B7%20document%20%C2%B7%20iterate-0D9488?style=flat-square" />
+</p>
 
 <br/>
 
@@ -181,13 +130,13 @@ timeline
 
 <br/>
 
-## say hello
+## let's work together
 
-I'm open to collaborations on **spatial cognition**, **HCI**, **biosignals**, and **AI for behavioral assessment**.
+Open to research collaborations, industry projects, and conversations about **intelligent sensing**, **HCI**, **health / assistive tech**, and applied AI — including spaces I'm still growing into.
 
 <p align="center">
   <a href="mailto:mobinazibandeh@gmail.com">
-    <img src="https://img.shields.io/badge/write_me-mobinazibandeh%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
+    <img src="https://img.shields.io/badge/say_hello-mobinazibandeh%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
   </a>
 </p>
 
@@ -196,5 +145,5 @@ I'm open to collaborations on **spatial cognition**, **HCI**, **biosignals**, an
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=thanks+for+finding+your+way+here" alt="bye" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=480&lines=always+curious+%C2%B7+always+building" alt="bye" />
 </p>
