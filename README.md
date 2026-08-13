@@ -29,6 +29,8 @@ I'm a mechatronics engineer and researcher who likes turning messy real-world si
 
 My background spans **sensing**, **computer vision**, **machine learning**, and **human–computer systems**. I've worked on multimodal behavioral analysis and biomechatronics, but I'm not locked into one pipeline or stack. I care more about the problem than the tool — and I'm always happy to learn a new one.
 
+Thesis work explored non-invasive assessment of human spatial navigation with vision, motion capture, and ML — one example of how I like to combine hardware, data, and analysis. Publications and datasets live on [Google Scholar](https://scholar.google.com/citations?user=_-slqcUAAAAJ&hl=en) and my [portfolio](https://mobina-zibandehpoor.github.io/).
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=curious+about+new+methods+%C2%B7+open+to+new+domains;experiment+%E2%86%92+measure+%E2%86%92+learn+%E2%86%92+ship" alt="pipeline typing" />
 </p>
@@ -36,6 +38,8 @@ My background spans **sensing**, **computer vision**, **machine learning**, and 
 <br/>
 
 ## what I'm drawn to
+
+<div align="center">
 
 <table>
 <tr>
@@ -50,7 +54,7 @@ turning the physical world into data
 <td width="33%" valign="top" align="center">
 
 ### think
-ML · deep learning · XAI  
+ML · DL · XAI  
 time-series & vision models  
 features that stay interpretable
 
@@ -66,32 +70,9 @@ prototypes people can actually use
 </tr>
 </table>
 
-I'm especially interested in **HCI**, **assistive / health tech**, **intelligent sensing**, and any project where engineering meets human behavior. New frameworks, sensors, or research directions are welcome — I learn fast and collaborate openly.
-
-<br/>
-
-## background
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left"><b>M.Sc.</b> Mechatronics Engineering</td>
-    <td align="left">K. N. Toosi University of Technology</td>
-  </tr>
-  <tr>
-    <td align="left"><b>B.Sc.</b> Electrical Engineering</td>
-    <td align="left">University of Zanjan</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Research</b></td>
-    <td align="left">Biomechatronics Laboratory · research & teaching assistant</td>
-  </tr>
-</table>
-
 </div>
 
-Thesis work explored non-invasive assessment of human spatial navigation with vision, motion capture, and ML — one example of how I like to combine hardware, data, and analysis. Publications and datasets live on [Google Scholar](https://scholar.google.com/citations?user=_-slqcUAAAAJ&hl=en) and my [portfolio](https://mobina-zibandehpoor.github.io/).
+I'm especially interested in **HCI**, **assistive / health tech**, **intelligent sensing**, and any project where engineering meets human behavior. New frameworks, sensors, or research directions are welcome — I learn fast and collaborate openly.
 
 <br/>
 
