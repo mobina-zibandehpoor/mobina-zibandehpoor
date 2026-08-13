@@ -77,15 +77,15 @@ I'm especially interested in **HCI**, **assistive / health tech**, **intelligent
 <table>
   <tr>
     <td align="left"><b>M.Sc.</b> Mechatronics Engineering</td>
-    <td align="left">K. N. Toosi University of Technology · 2022–2025</td>
+    <td align="left">K. N. Toosi University of Technology</td>
   </tr>
   <tr>
-    <td align="left"><b>B.Sc.</b> Electrical Engineering (Telecom)</td>
-    <td align="left">University of Zanjan · 2017–2021 · top of class</td>
+    <td align="left"><b>B.Sc.</b> Electrical Engineering</td>
+    <td align="left">University of Zanjan</td>
   </tr>
   <tr>
     <td align="left"><b>Research</b></td>
-    <td align="left">Biomechatronics Laboratory · research & teaching assistant · peer reviewer (IEEE Access and ...)</td>
+    <td align="left">Biomechatronics Laboratory · research & teaching assistant</td>
   </tr>
 </table>
 
@@ -103,6 +103,7 @@ Thesis work explored non-invasive assessment of human spatial navigation with vi
 </p>
 
 - Open research shared in venues such as *Scientific Data* (Nature) and IEEE
+- Peer reviewer (IEEE Access and ...)
 - National recognitions for thesis / presentation competitions
 
 <br/>
